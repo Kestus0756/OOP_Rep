@@ -1,0 +1,14 @@
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\bin\Debug\net8.0\OOPC#UzdNr2.exe
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\bin\Debug\net8.0\OOPC#UzdNr2.deps.json
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\bin\Debug\net8.0\OOPC#UzdNr2.runtimeconfig.json
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\bin\Debug\net8.0\OOPC#UzdNr2.dll
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\bin\Debug\net8.0\OOPC#UzdNr2.pdb
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\OOPC#UzdNr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\OOPC#UzdNr2.AssemblyInfoInputs.cache
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\OOPC#UzdNr2.AssemblyInfo.cs
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\OOPC#UzdNr2.csproj.CoreCompileInputs.cache
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\OOPC#UzdNr2.dll
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\refint\OOPC#UzdNr2.dll
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\OOPC#UzdNr2.pdb
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\OOPC#UzdNr2.genruntimeconfig.cache
+C:\Users\kestu\source\repos\OOPC#UzdNr2\OOPC#UzdNr2\obj\Debug\net8.0\ref\OOPC#UzdNr2.dll
